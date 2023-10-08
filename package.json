@@ -1,0 +1,14 @@
+{
+  "name": "spotify-podcaster-uploader",
+  "version": "1.0.0",
+  "description": "Automated Spotify Podcaster (Anchor) episode uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./scripts/puppeteer-upload.example.js"
+  },
+  "author": "Peter Pirc",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
